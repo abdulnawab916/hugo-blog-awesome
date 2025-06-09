@@ -5,13 +5,19 @@ description: Full video-essay script for Abdul Hai Nawab
 toc: false
 ---
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/JlyHAX0EWiU?start=208" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+
 # “Love, your Son”
 
 _By Abdul Hanan Nawab_
 
 ---
 
-## Introduction / Opening Scene
+## Introduction
 
 **Dear Baba,**  
 I don’t know if you’ll ever hear this, but I’ve been writing this letter for years, in my head, in the silence of the night when you come to me, when I see you every time I look in the mirror.  
@@ -30,15 +36,11 @@ All in one.
 
 ## Act One: Manhood
 
-**Narration:**  
 In the Afghan tradition, there’s a famous proverb that goes like this:
-
 **"Manhood is not in dying, but in how you live.”**
 
 There are many definitions of what it means to be a man, and to embrace one’s masculinity.  
 To be quite honest, I never understood what it meant. And to this day, that question is yet to be answered.
-
-**Abdul’s Narration:**
 
 As the son of immigrant parents, there’s almost a cognitive dissonance that one experiences.  
 The differentiating cultures.  
@@ -76,10 +78,6 @@ But, you did your best given what you grew up with.
 ---
 
 ## Act Two: Independence
-
-**Audio: Transition to Donia Gozaraan - Farhad Darya (28 seconds into the audio)**
-
-**Continued Narration:**
 
 I began learning what it truly meant to be a man the moment you left.  
 When you left, a part of me left too.  
@@ -149,7 +147,7 @@ This was where I had to learn to stand on my own.
 To learn how I was wired.  
 To learn how to cope.
 
-Your passing was my transition, from a boy, to a man.
+Your passing was my transition, from a **boy**, to a **man**.
 
 ---
 
@@ -198,9 +196,6 @@ That was the beginning of my life, Dad.
 
 ## Ending Credits
 
-On the left-hand side, images will be displayed (from my Photos gallery).  
-With a note on the right-hand side:
-
 **Abdul Hai Nawab**  
 **Hajji Noor Agha**  
 **January 10th, 1954 – May 13th, 2019**
@@ -213,4 +208,3 @@ A proverb my father used to say often:
 I try to live by what my father believed. Every single day.  
 I love you, Baba.  
 And I hope we meet again.
-
