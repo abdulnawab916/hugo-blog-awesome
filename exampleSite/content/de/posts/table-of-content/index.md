@@ -7,6 +7,7 @@ description: Konfiguration des Inhaltsverzeichnis im Theme 'Hugo Blog Awesome'
 ## Inhaltsverzeichnis
 
 Dieses Theme unterstützt die Anzeige eines Inhaltsverzeichnisses (IVZ) für Blog Posts.
+womp womp womp
 
 ## Parameter
 
