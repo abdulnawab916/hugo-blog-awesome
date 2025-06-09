@@ -1,4 +1,5 @@
-baseURL = 'https://hba.sid.one/'
+baseURL = 'https://abdulnawab.github.io/blog/'
+
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
