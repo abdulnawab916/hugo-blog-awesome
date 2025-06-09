@@ -1,5 +1,5 @@
 ---
-title: Love, Your Son
+title: "Love, Your Son"
 date: 2025-06-09
 description: Full video-essay script for Abdul Hai Nawab
 toc: false
@@ -193,8 +193,6 @@ And that…
 That was the beginning of my life, Dad.
 
 ---
-
-## Ending Credits
 
 **Abdul Hai Nawab**  
 **Hajji Noor Agha**  
