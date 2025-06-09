@@ -109,19 +109,6 @@ If you want to customize anything further, you can modify `layouts\partials\head
 
 Social icons can be added by configuring `hugo.toml` file in the following manner.
 
-```toml
-[[params.socialIcons]]
-name = "github"
-url = "https://github.com/hugo-sid"
-
-[[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com"
-
-[[params.socialIcons]]
-name = "Rss"
-url = "/index.xml"
-```
 
 <details>
   <summary>List of available icons (click to expand)</summary>
