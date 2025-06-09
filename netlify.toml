@@ -1,5 +1,5 @@
 [build]
-  publish = "exampleSite/public"
+  publish = "exampleSite"
   command = "hugo --source exampleSite"
 
 [build.environment]
