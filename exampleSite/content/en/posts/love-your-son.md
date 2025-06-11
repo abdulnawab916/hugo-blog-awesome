@@ -1,5 +1,5 @@
 ---
-title: "Love, Your Son"
+title: "Showcase"
 date: 2025-06-09
 description: Full video-essay script for Abdul Hai Nawab
 toc: false
@@ -206,3 +206,59 @@ A proverb my father used to say often:
 I try to live by what my father believed. Every single day.  
 I love you, Baba.  
 And I hope we meet again.
+
+
+
+## Project Evaluation
+
+Using my own rubric as a guide, I believe my final project meets the expectations of the personal narrative video documentary genre in a meaningful and intentional way. At its foundation, the documentary was created as a tribute to my father. It’s a deeply personal piece that allowed me to reflect on my identity, not just as a student navigating higher education, but as a son trying to make sense of grief, love, and growth.
+
+From the start, I aimed to create something that didn’t just tell a story, but invited the viewer into a space of memory and emotion, my very own personal space. The emotional arc of the short-film feels authentic and grounded, with each scene intentionally placed to build upon the previous one. Nothing feels random or overly curated. Every shot, every transition, was chosen to serve the heart of the story.
+
+When it comes to genre conventions, I made sure to integrate the core elements I had outlined in my rubric. Poetic narration helped carry the emotional tone, while ambient sound, visual pacing, and quiet reflective moments supported the storytelling in a more immersive way. The tone remains steady throughout, honest, vulnerable, and thoughtful without coming off as performative or self-indulgent. I also didn’t want to victimize myself, and wanted to highlight the growth that I had as a person. I chose to structure the film around emotional audio rather than a chronological timeline because I wanted the story to feel lived-in rather than explained. Each creative choice, from the writing to the editing, was rooted in the goal of emotional resonance.
+
+I also spent time carefully blending modalities. The visuals, voiceover, music, silence, and pacing all interact in ways that are meant to feel natural but intentional. Silence, in particular, became a powerful tool, it let certain moments breathe and allowed the emotion to land without interruption. Taking that kind of risk, being emotionally open on screen, was challenging, but it also felt necessary. That vulnerability is what makes the project feel real and honest.
+
+Overall, I’m proud of how the project turned out. It accomplishes what I set out to do: it tells a story that is personal but also relatable, grounded in lived experience but accessible to others. There are always things I could polish, timing, sound levels, maybe some visuals, but at its core, I believe this project is effective in its purpose, aligned with its audience, and most importantly, true to my voice. I walked away from this process with more than just a video. I walked away with clarity, growth, and a deeper understanding of what it means to tell a story that matters.
+
+Another component of the project that I am also really proud of, is this site that I have created. I blended together my skills of Software Development, writing, and film-creation, all into one.
+
+## Revised Rubric
+
+This rubric reflects the creative, technical, and emotional goals of the finished project, including narrative design, audiovisual execution, and integration with a personal portfolio site.
+
+### Purpose, Growth, and Personal Voice
+
+- [ ] The documentary communicates a clear emotional purpose grounded in memory, grief, identity, and growth.
+- [ ] The creator maintains a sincere and honest tone throughout without being self-indulgent or overly sentimental.
+- [ ] The film avoids victimization or self-pity, instead highlighting personal transformation and maturity.
+- [ ] The storytelling feels lived-in rather than narrated from a distance; the story invites the viewer into an intimate space.
+
+### Genre Conventions and Artistic Intent
+
+- [ ] The project adheres to the core conventions of the personal documentary genre, including poetic narration, emotional pacing, and ambient audio design.
+- [ ] Scenes are structured around emotional beats and audio arcs instead of a traditional linear or chronological plot.
+- [ ] Visual transitions, shot composition, and rhythm support emotional resonance rather than just technical polish.
+- [ ] Silence is used intentionally and powerfully to emphasize reflection, contrast, or emotional gravity.
+
+### Multimodal Integration and Emotional Impact
+
+- [ ] Modalities—visuals, narration, music, silence, and pacing—are blended in a way that feels natural and emotionally immersive.
+- [ ] Creative risks are taken with timing, vulnerability, and structure, all of which strengthen the emotional truth of the piece.
+- [ ] Emotional openness and authenticity are treated as artistic tools, not just narrative content.
+
+### Self-Directed Learning and Interdisciplinary Work
+
+- [ ] The creator independently applied skills from writing, software development, and filmmaking into a cohesive final product.
+- [ ] A functional and aesthetic website was built to host the film and supporting materials, demonstrating thoughtful presentation and user experience.
+- [ ] The website reflects the tone, design language, and emotional ethos of the film itself, extending the story beyond the video.
+
+### Technical Execution and Room for Iteration
+
+- [ ] While not flawless, the documentary demonstrates strong effort and intentionality in editing, sound balancing, and pacing.
+- [ ] Areas for future polish (e.g., smoother transitions, refined sound levels) are acknowledged without detracting from the overall impact.
+- [ ] The project feels complete and coherent, even while leaving space for ongoing growth and creative development.
+
+---
+
+*Note: This project was developed with the creative and organizational support of various large language models (LLMs), including ChatGPT. These tools were used to help refine structure, generate ideas, and clarify phrasing throughout the writing and planning process. All final creative decisions were made by the author.*
